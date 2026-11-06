@@ -1,4 +1,4 @@
-# carlito-releases
+# Carlito
 
 Carlito es una suite de utilidades para servicios móviles en Cuba.
 
